@@ -15,6 +15,10 @@
     text-align: center;
     background-color: #abb67175;
     color: #000000;
+    background-image: url('https://i.imgur.com/Mo5icoW.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
   }
   
   .about h2 {
@@ -28,6 +32,7 @@
     width: 40%;
     font-size: 30px;
   }
+
   .prompt svg {
     font-size: 60px;
     margin: 5px;
