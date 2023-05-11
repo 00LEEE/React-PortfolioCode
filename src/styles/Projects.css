@@ -30,10 +30,11 @@
     margin: 40px;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
     text-align: center;
+    transition: 0.3s ease-in; /* Add transition property for smooth effect */
   }
   .projectItem:hover {
-    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
-    transition: 0.3s ease-in;
+    box-shadow: 0px 10px 20px rgba(0, 0, 255, 0.3); 
+    transform: translateY(-10px); 
     cursor: pointer;
   }
   
