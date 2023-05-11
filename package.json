@@ -1,7 +1,7 @@
 {
   "name": "kolesportfolio",
   "version": "0.1.0",
-  "homepage": "https://00LEEE.github.io/React-Portfolio",
+  "homepage": "https://00LEEE.github.io/React-PortfolioCode",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
