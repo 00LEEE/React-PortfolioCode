@@ -18,7 +18,8 @@
 
 ![Alt text](https://i.imgur.com/6MEPkh9.png)
 
-Deployed website on Github: 
+Deployed website on Github: https://00leee.github.io/React-Portfolio/
+*Note - Had to create seperate repo for publishing on Github Pages please visit: "https://github.com/00LEEE/React-PortfolioCode" for code.
 
 # Continued Devolopment:
 - Add links to all my projects not just placholders. Some of my projects are broken right now and need a little fixing so I decided to wait on them until I fix them.
