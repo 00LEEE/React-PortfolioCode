@@ -11,7 +11,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2013 - 2017"
-          iconStyle={{ background: "#3e497a", color: "#fff", boxShadow: '0px 0px 10px 2px rgba(0, 0, 0, 0.6)' }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -22,7 +22,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2017 - 2019"
-          iconStyle={{ background: "#3e497a", color: "#fff", boxShadow: '0px 0px 10px 2px rgba(0, 0, 0, 0.6)' }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -36,23 +36,21 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2019 - 2020"
-          iconStyle={{ background: "#3e497a", color: "#fff", boxShadow: '0px 0px 10px 2px rgba(0, 0, 0, 0.6)' }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
-          <div style={cardStyle}>
-            <h3 className="vertical-timeline-element-title">
-              Salt Lake Community, South SLC, UT
-            </h3>
-            <h4 className="vertical-timeline-element-subtitle">
-              Associate's Degree
-            </h4>
-            <p>Studied 3D modeling/Animation/Software Engineering</p>
-          </div>
+          <h3 className="vertical-timeline-element-title">
+            Salt Lake Community, South SLC, UT
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Associate's Degree
+          </h4>
+          <p>Studied 3D modeling/Animation/Software Engineering</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2022 - 2023"
-          iconStyle={{ background: "#3e497a", color: "#fff", boxShadow: '0px 0px 10px 2px rgba(0, 0, 0, 0.6)' }}
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
