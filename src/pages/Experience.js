@@ -39,13 +39,15 @@ function Experience() {
           iconStyle={{ background: "#3e497a", color: "#fff", boxShadow: '0px 0px 10px 2px rgba(0, 0, 0, 0.6)' }}
           icon={<WorkIcon />}
         >
-          <h3 className="vertical-timeline-element-title">
-            Salt Lake Community, South SLC, UT
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Associate's Degree
-          </h4>
-          <p>Studied 3D modeling/Animation/Software Engineering</p>
+          <div style={cardStyle}>
+            <h3 className="vertical-timeline-element-title">
+              Salt Lake Community, South SLC, UT
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">
+              Associate's Degree
+            </h4>
+            <p>Studied 3D modeling/Animation/Software Engineering</p>
+          </div>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
