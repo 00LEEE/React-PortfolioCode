@@ -16,7 +16,7 @@
 - Creating the Virtical Timeline was a little difficult; I have never attempted a design method such as that.
 - Embedding links inside each of the social icons as well as the Email icon specifically; that one was a little more difficult as I have never linked my email anywhere other than a "Contact Me" section on my normal portfolio using HTML & JS. Ultimately I got things done and it turned out really well I think.
 
-![Alt text](https://i.imgur.com/6MEPkh9.png)
+![Alt text](https://i.imgur.com/S7qxxUW.png)
 
 Deployed website on Github: https://00leee.github.io/React-Portfolio/
 *Note - Had to create seperate repo for publishing on Github Pages please visit: "https://github.com/00LEEE/React-PortfolioCode" for code.
