@@ -18,7 +18,7 @@
 
 ![Alt text](https://i.imgur.com/S7qxxUW.png)
 
-Deployed website on Github: https://00leee.github.io/React-Portfolio/
+Deployed website on Github: https://00leee.github.io/React-Port-Gpages/
 *Note - Had to create seperate repo for publishing on Github Pages please visit: "https://github.com/00LEEE/React-PortfolioCode" for code.
 
 # Continued Devolopment:
