@@ -50,7 +50,7 @@ function Experience() {
   }, []);
 
   return (
-    <div className="experience">
+    <div className="experience" style={{ minHeight: 'calc(100vh - 200px)' }}>
       <style>{`
         .experience {
           padding: 20px;
@@ -140,4 +140,3 @@ function Experience() {
         }
         
         export default Experience;
-
