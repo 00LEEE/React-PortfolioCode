@@ -18,7 +18,7 @@ function Footer() {
           <LinkedInIcon />
         </a>
       </div>
-      <p> &copy; 2023 Kole Dallam</p>
+      <p> &copy; 2024 Kole Dallam</p>
     </div>
   );
 }
