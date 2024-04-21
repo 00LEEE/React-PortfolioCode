@@ -32,20 +32,20 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, Redux, HTML, CSS, React Native, NPM, BootStrap, Yarn,
-              TailwindCSS, StyledComponents
+              Redux, HTML, CSS, React Native, NPM, BootStrap, Yarn,
+              TailwindCSS & StyledComponents.
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
               NodeJS, Java Spring, .NET, ExpressJS, GraphQL, ApolloServer,
-              MySQL, MongoDB, DynamoDB, Docker, Insomnia.
+              MySQL, MongoDB, DynamoDB, Docker, Selenium & Insomnia.
             </span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, Java, C#, C, C++, TypeScript.</span>
+            <span>JavaScript, React, Java, C#, C, C++ & TypeScript.</span>
           </li>
         </ol>
       </div>
